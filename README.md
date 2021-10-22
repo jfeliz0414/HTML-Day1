@@ -6,3 +6,4 @@ Day#5: CSS is a bit more tedious than I thought but I was able to implant some s
 Day#6: Finished my Naruto page. I'm ok with how it came out.
 Day#7: Working on CSS more, and started a goal page but my net was down/no power most of the day but thats a side thing.
 Day#8: Working on Page 2 from now. Going to implant a Nav bar, and I realized planning ahead is really the way to go.
+.
